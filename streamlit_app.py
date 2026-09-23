@@ -1,12 +1,12 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 first my app')
 
-st.write('Hello world!')
+st.write('Hello teacher')
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-st.title('my love')
+st.title('my App')
 def f(x):
     return x**3+4*x**2+x-1
 def df(x):
